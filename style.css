@@ -1,0 +1,164 @@
+ /*  -------------------------navstyling--------------------------*/
+*{
+    color: rgb(34, 34, 103);
+}
+
+nav{
+    display: flex;
+    background-color: rgb(231, 109, 109);
+    justify-content: space-around;
+}
+.navDiv-1{
+    display: flex;
+    justify-content: center;
+}
+.navDiv-2{
+    display: flex;
+    gap: 20px;
+    font-size: large;
+    margin-top: 2%;
+}
+img{
+     /* width: 58px; */
+     border-radius: 50%;
+     /* height: 45px; */
+     /* margin-top: 10px; */
+}
+.navDiv-1{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+     width: 100%;
+    margin-right: 20%;
+}
+.hamebergar{
+    height: 50%;
+    width: 25%;
+}
+@media(min-width:764px){
+.hamebergar{
+        display:none;
+     }
+     .footer-section{
+         padding-left: 15%;
+     }
+}
+footer ul{
+    display: block;
+}
+@media(max-width:768px){
+.hamebergar{
+    display:block ;
+}
+
+footer ul{
+    display:none;
+    gap: 20px;
+}
+ul{
+    display: none;
+}
+
+.img-div{
+    margin-right: 20%;
+    margin-top: 10%;
+    /* padding-left: 30%; */
+
+    /* margin-right: 40%; */
+}
+.footer-container{
+    padding-left: -85%;
+} 
+}
+
+a{
+    color: rgb(72, 72, 147);
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+
+/* ------------------------------mainstyling------------------------------------ */
+
+.Projectsdiv{
+    display: flex;
+    gap:13px;
+    margin-bottom: 5px;
+}
+
+#uliDiv,#viralSpiraldiv{
+    border-radius:7px;
+    background-color: rgb(250, 224, 191);
+    height: 22px;
+    margin-top: 17px;
+    padding: 4px;
+}
+/* ---------------------------------paragraphstyling--------------------------------- */
+#para{
+    font-size: 14px;
+}
+p{
+    font-size: 9px;
+    max-width: 60%;
+    min-width: 40%;
+}
+
+/* -----------------------------footerstyling-------------------------- */
+
+.footer-section{
+    display: flex;
+}
+/* .footerContainer{
+    display: flex;
+    justify-content: space-between;
+    gap: 10%;
+    flex-wrap: wrap;
+    width: 100%;
+} */
+
+.footerLogo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* gap:10px; */
+    /* margin-left: 70%; */
+    /* margin-top: 50px; */
+    margin-bottom: 60px;
+    margin-right: 1px;
+}
+footer section{
+    display: flex;
+    flex-wrap: wrap;
+}
+.footerUl{
+    display: inline;
+    flex-direction: column;
+    margin-bottom:1%;
+
+}
+
+.img-div{
+    margin-left: 10%;
+    margin-top: 10px;
+}
+
+#box{
+    align-items: center;
+    border: 1px sloid black;
+}
+
+#contaner,.body,.Projectsdiv,.footerDiv,.footerPara{
+    margin-left: 18%;
+}
+.footer-container{
+    display: flex;
+  }
+
+

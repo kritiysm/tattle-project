@@ -1,0 +1,322 @@
+[
+    {
+        "year": "July, 2024",
+        "heading": " Uli was featured on Github Open Source Friday",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-05 07-25-13.png",
+        "para": "Denny and Kaustubha were interviewed by Andrea from Github for their weekly show . We got to share how Uli came about, our plans for it in the future, and our take on interdisciplinary work in tech."
+        
+    },
+    {
+        "year": "July, 2024",
+        "heading": "TrustCon 2024 - Participatory Algorithmic Moderation ",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "We gave a presentation at TrustCon 2024 on participatory algorithmic moderation. The presentation focused on participatory processes for creating representative datasets."
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Uli is a DPG now ",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "We are thrilled to be counted as a Digital Public Good alongside many other incredible opensource projects working to achieve the SDGs."
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Outstanding Paper Award for Uli!" ,
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-05 07-22-09.png",
+        "para": "Uli received global recognition for its unique approach to annotation. The academic write-up that explains this process received the Outstanding Paper Award at the Workshop on Online Abuse and Harms, held at the NAACL 2024"
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Thank You for Reporting: Mitigating Online Harms with Accessible Technology",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-05 07-25-13.png",
+        "para": "This discussion was hosted at the Tinkerspace, Kerala, alongside RATI Foundation. Rati spoke about their helpline for children and women facing online harms in India, Meri Helpline, and Tattle spoke about building citizen-centric technologies against these threats."
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Asia Disinformation Co-Lab",
+        "image":"image/Screenshot from 2024-10-05 07-28-27.png",
+        "link":"Read More",
+        "para": "Tattle participated in the Asia Disinformation Co-Lab in Bangkok put together by Numun Fund. The event gathered researchers, activists, media practitioners, designers, and developers from across Asia and aimed to enhance analysis and action against disinformation and hate speech by exploring concrete strategies to tackle disinformation and the sharing of insights, experiences, and recommendations."
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Safeguarding Information Integrity during Elections with Digital Public Goods",
+        "link":"Read More",
+        "image":"/home/sajhe/Pictures/Screenshots/Screenshot from 2024-10-05 08-54-33.png",
+        "para": "Feluda was featured and listed in a blog by the Digital Public Goods Alliance on DPGs that are strengthening information integrity at the critical time of elections."
+    },
+    {
+        "year": "April, 2024",
+        "heading": "AoIR Hyderabad Flashpoint Symposium 2024",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle took part in a panel themed on building a more just and fair internet through design, code, and content as part of the symposium that was centred on exploring forms and structures of labour contributing to digital infrastructures, content, and systems."
+    },
+    {
+        "year": "March, 2024",
+        "heading": "Launch of DAU Collaborative Platform",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Collaborating with the Misinformation Combat Alliance, we're addressing the issue of manipulated media through a WhatsApp tipline (Deepfakes Analysis Unit) for querying media manipulation levels, providing assessment reports for each item. Our focus is on the collaborative platform powering the Deepfakes Analysis Unit, facilitating collective assessment among experts"
+    },
+    {
+        "year": "March, 2024",
+        "heading": "Consultation on Gendered Information Disorder in India",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "We attended the roundtable held by Centre for Internet and Society and Point of View in Mumbai, and had some interesting discussions whereby intersectional perspectives were brought forth in an attempt to understand the impact of gender upon information disorders."
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Ballots and Bots: Elections 2024 in a Digital World",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "We took part in an in-person event hosted by Software Freedom Law Centre that emphasized the pivotal role of technology in India's upcoming 2024 General Elections, particularly in shaping electoral processes."
+    },
+    {
+        "year": "February, 2024",
+        "heading": "Uli slur list used by IFF",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Uli's slur list was used by IFF to identify real examples of gendered hate speech content in English and Hindi on Youtube and Koo"
+    },
+    {
+        "year": "January, 2024",
+        "heading": "Deepfakes and Democracy",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle participated in a virtual event hosted by Medianama that centred on discussing the regulatory challenges and societal implications posed by deepfakes on democracy, exploring solutions and collaborative strategies"
+    },
+    {
+        "year": "December, 2023",
+        "heading": "Shared Task on Gendered Abuse Detection in Indic Languages at ICON",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "A shared task based on the Uli Dataset to build NLP systems that detect online gender-based violence"
+    },
+    {
+        "year": "December, 2023",
+        "heading": "Community-Led AI - Notes from the Trenches",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Presentation at the Research Symposium of the Global Partnership on AI 2023 conference"
+    },
+    {
+        "year": "November, 2023",
+        "heading": "Design Thinking Session on Digitally Manipulated Media",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "We published a work in progress open dataset of Manipulated Media items that spread on social media. We also published a strategy document on ways of mitigating harms by DMM"
+    },
+    {
+        "year": "November, 2023",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "link":"Read More",
+        "heading": "Uli UX Improvements and Security Updates"
+    },
+    {
+        "year": "July, 2024",
+        "heading":"Is meaningful participation and accountability in AI possible?",
+        "link":"Read More",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "A discussion centred around creating more space for participation by those outside of the tech field in the design, testing, deployment, and assessment of AI and ML models"
+    },
+    {
+        "year": "October, 2023",
+        "heading": "What Do We Mean When We Say Open-Source AI",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "A talk at IndiaFOSS 3.0 in Bangalore about the world of Open Source AI"
+    },
+    {
+        "year": "October, 2023",
+        "heading": "Community Participation in Hacktoberfest",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "We improved our documentation and secured 3 community merged PRs with hacktoberfest contributors in Uli"
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Data Cooperatives and Open Source AI",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Hosted a webinar on data and ML model licencing as part of Open Source Initiative's Deep Dive AI Webinar Series"
+    },
+    {
+        "year": "September, 2023",
+        "heading": "Feluda's Recognition as a DPG",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Our tool, Feluda, has been officially recognised by the Digital Public Goods Alliance as a DPG"
+    },
+    {
+        "year": "July, 2024",
+        "heading": "Keynote at ADMS Symposium: Alternative Visions for Tech in the Age of AI",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "The talk focused on the importance of civic tech to healthier digital futures"
+    },
+    {
+        "year": "June, 2023",
+        "heading": "DPG Open Source Community Manager Programme",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Uli took part in GitHub's efforts to popularise contributions to tech projects that work for the social good"
+    },
+    {
+        "year": "June, 2023",
+        "heading": "Mobile Communication and Online Falsehoods in Asia",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "The chapter written by Denny, Tarunima and Aditya speaks about the unique technical and social affordances of Mobile Instant Messaging Services (like WhatsApp) which, if accounted for, can result in a more productive agenda for protecting Indian citizens on these platforms"
+    },
+    {
+        "year": "June, 2024",
+        "heading": "A Community-based Tool to Block Hateful Content on Social Media",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Uli featured by Mozilla Foundation"
+    },
+    {
+        "year": "June, 2023",
+        "heading": "TinkerHub: Future of AI in India",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle hosted a session on tech interventions against online harms"
+    },
+    {
+        "year": "June, 2023",
+        "heading": "RightsCon Costa Rica 2023",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle alongside GitHub hosted a session on developing indexes on internet platform data for social sector research"
+    },
+    {
+        "year": "May, 2023",
+        "heading": "Nobel Prize Summit",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Feluda was one of the nine open-source solutions featured by UNDP and DPGA at the Nobel Prize Summit in Washington DC in an effort to highlight how open-source innovation is helping to address mis- and disinformation around the world and provide better access to reliable information"
+    },
+    {
+        "year": "May, 2023",
+        "heading": "MisinfoCon India 2023",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle co-organised the first MisinfoCon conference in India in Bangalore with Meedan and Hackshackers at the Thoughtworks' Bangalore office. It was a convening of technology, policy, media, and design professionals to foster understanding and action around misinformation in India and consisted of two days of lightning talks and workshops, followed by a hackathon on the third day, touching on different aspects of trust and safety online, with a specific focus on platform research, AI and media, storytelling and misinformation response, and gendered disinformation"
+    },
+    {
+        "year": "May, 2023",
+        "heading": "Digital Rights Asia Pacific 2023 Assembly",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle hosted two sessions: One was a playtest workshop on Viral Spiral and the second was a roundtable on the impacts and challenges of language models for South Asian Media in the present age of Mis/Disinformation"
+    },
+    {
+        "year": "May, 2023",
+        "heading": "Tattle's Induction into DATALeads' Factshala Innovation Lab",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle being supported to develop a game centred around imparting media literacy"
+    },
+    {
+        "year": "May, 2023",
+        "heading": "Putting hate speech on mute: An Indian project helps social media users filter out abuse to feel safe online",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Uli featured by DW Akademie"
+    },
+    {
+        "year": "April, 2023",
+        "heading": "Global AI: Reframing the Conversation",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Event that focused on reframing the conversation around AI and the need to move beyond looking at AI as this all-knowing, pervasive being"
+    },
+    {
+        "year": "April, 2023",
+        "heading": "Civic Tech Workshop at FLAME University",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Workshop conducted with first-year Digital Humanities students at FLAME University in Pune, India, about civic tech, its role in society and how Tattle contributes to the space"
+    },
+    {
+        "year": "March, 2023",
+        "heading": "Tattle's Participation at Mozfest",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Included three sessions on fair compensation for data annotators, our DFL induction, and designing federated networks around user experiences"
+    },
+    {
+        "year": "March, 2023",
+        "heading": "Centering Womens Equity in Digital Technology",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "UN CSW event that focused on digital technology solutions for challenges that people who identify as women and girls disproportionately face globally"
+    },
+    {
+        "year": "March, 2023",
+        "heading": "Tattle's Induction into the Data Futures Lab Cohort",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Uli project being supported by Mozilla to develop crowdsourced datasets for the public good"
+    },
+    {
+        "year": "May, 2023",
+        "heading": "Viral Spiral playtest with college students",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Playtesting Viral Spiral with college students at Mathrubhumi Media School as part of a workshop facilitated by Citizen Digital Foundation"
+    },
+    {
+        "year": "February, 2023",
+        "heading": "Induction into Agami's OpenNyAI Labs Cohort",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tattle's try at utilising LLMs to build an AI product"
+    },
+    {
+        "year": "February, 2023",
+        "heading": "Can digital games like Viral Spiral fight fake news and misinformation?",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Viral Spiral featured by Mint"
+    },
+    {
+        "year": "January, 2023",
+        "heading": "Tech for Truth: Innovative Solutions",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Misinformation Regulations Governance at IIT-Madras"
+    },
+    {
+        "year": "January, 2023",
+        "heading": "Safe and Unsafe: How Design Choices Help Women Online",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "IIC Diamond Jubilee Celebrations - Digital Governance"
+    },
+    {
+        "year": "December, 2022",
+        "heading": "MP Presented GFTW study's Findings at Academic Conference",
+        "para": "Behavioural Research in Economics Workshop at IIM-Bangalore"
+    },
+    {
+        "year": "December, 2022",
+        "heading": "Attended Agami Summit Convened for Idea Prize Shortlisted Members",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Agami Summit 2022: Big Ideas for Justice"
+    },
+    {
+        "year": "December, 2022",
+        "heading": "Ironing out Creases and Listening to Community Feedback for Viral Spiral",
+        "para": "Viral Spiral's First Digital Playtest Session"
+    },
+    {
+        "year": "November, 2022",
+        "heading": "Presentation at UNFPA Consultation",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Tackling Tech-Mediated Online Gender-Based Violence"
+    },
+    {
+        "year": "November, 2022",
+        "heading": "Submitted Comments on the Indian Telecommunications Bill, 2022",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Open Consultation on Indian Telecommunications Bill, 2022"
+    },
+    {
+        "year": "November, 2022",
+        "heading": "Initiating Community Outreach for Uli",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png",
+        "para": "Winning Feminist ki Batti Jalao Grant"
+    },
+    {
+        "year": "November, 2022",
+        "heading": "How Tattle And Hatebase Tackle Online Misinformation And Hate Speech In Non-English Languages",
+        "para": "Tattle Interviewed by Medianama"
+    },
+    {
+        "year": "October, 2022",
+        "heading": "Medium and the message: Spread of hate through misinformation & disinformation",
+        "image":"image/Screenshot from 2024-10-02 22-20-44.png"
+    }
+]
