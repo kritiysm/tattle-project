@@ -23,6 +23,7 @@ let image = document.querySelector("image")
          const year= document.createElement('h3')
          year.textContent =  data.year;
         box.appendChild(year);
+        
 
         const heading= document.createElement('h4')
         heading.textContent = data.heading
